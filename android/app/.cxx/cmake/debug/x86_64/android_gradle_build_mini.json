@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/zack/Library/Android/sdk/ndk/21.3.6528147/build/cmake/platforms.cmake",
+    "/Users/zack/Projects/FlutterProjects/flutter_native_add/android/CMakeLists.txt",
+    "/Users/zack/Library/Android/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/zack/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/zack/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-x86_64": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/zack/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/x86_64\" native_add",
+      "abi": "x86_64",
+      "output": "/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so"
+    }
+  }
+}

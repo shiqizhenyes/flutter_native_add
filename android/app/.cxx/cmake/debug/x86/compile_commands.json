@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/x86",
+  "command": "/Users/zack/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/zack/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zack/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.cpp.o -c /Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.cpp",
+  "file": "/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.cpp"
+}
+]

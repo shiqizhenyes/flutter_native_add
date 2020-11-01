@@ -1,0 +1,24 @@
+# ninja log v5
+0	32	1604038555	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	f43b95f56a9f38a0
+32	62	1604038555	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	86be2246203c25e3
+0	45	1604041278	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	f43b95f56a9f38a0
+45	102	1604041278	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	86be2246203c25e3
+0	6	0	clean	a74717a5f7dd10fe
+0	36	1604041742	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	f43b95f56a9f38a0
+36	82	1604041742	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	86be2246203c25e3
+0	33	1604041813	build.ninja	b12a0d47e86c586d
+0	5	0	clean	a74717a5f7dd10fe
+0	5	0	clean	a74717a5f7dd10fe
+0	6	0	clean	a74717a5f7dd10fe
+0	34	1604042003	build.ninja	b12a0d47e86c586d
+1	42	1604042003	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	f43b95f56a9f38a0
+42	72	1604042003	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	86be2246203c25e3
+1	7	0	clean	a74717a5f7dd10fe
+0	32	1604045436	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	f43b95f56a9f38a0
+32	83	1604045436	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	86be2246203c25e3
+0	6	0	clean	a74717a5f7dd10fe
+0	39	1604069377	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	f43b95f56a9f38a0
+39	92	1604069378	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	86be2246203c25e3
+0	29	1604208589	build.ninja	b12a0d47e86c586d
+0	36	1604208589	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.cpp.o	9a86c6f3eadba59c
+36	92	1604208589	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so	315c1e0341813f11

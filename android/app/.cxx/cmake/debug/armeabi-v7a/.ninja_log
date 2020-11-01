@@ -1,0 +1,24 @@
+# ninja log v5
+0	32	1604038555	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	5d83a4e7b76b2d7d
+32	61	1604038555	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	f1b133b02d47081
+0	92	1604041278	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	5d83a4e7b76b2d7d
+93	168	1604041278	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	f1b133b02d47081
+0	5	0	clean	a74717a5f7dd10fe
+0	184	1604041742	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	5d83a4e7b76b2d7d
+184	229	1604041742	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	f1b133b02d47081
+1	43	1604041812	build.ninja	ac9e96b86172486c
+0	5	0	clean	a74717a5f7dd10fe
+0	7	0	clean	a74717a5f7dd10fe
+0	6	0	clean	a74717a5f7dd10fe
+0	53	1604042003	build.ninja	ac9e96b86172486c
+0	62	1604042003	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	5d83a4e7b76b2d7d
+62	94	1604042003	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	f1b133b02d47081
+0	6	0	clean	a74717a5f7dd10fe
+11	221	1604045436	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	5d83a4e7b76b2d7d
+222	280	1604045436	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	f1b133b02d47081
+0	6	0	clean	a74717a5f7dd10fe
+8	203	1604069377	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/native_add.cpp.o	5d83a4e7b76b2d7d
+203	264	1604069377	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	f1b133b02d47081
+0	41	1604208588	build.ninja	ac9e96b86172486c
+0	242	1604208588	CMakeFiles/native_add.dir/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.cpp.o	80d4cbac9c06cbd7
+243	309	1604208588	/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	6a0b9d291b0650e7

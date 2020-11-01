@@ -1,0 +1,47 @@
+{
+  "stringTable": {
+    "0": "/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/zack/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zack/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/zack/Library/Android/sdk/ndk/21.3.6528147/build/cmake/platforms.cmake",
+    "/Users/zack/Projects/FlutterProjects/flutter_native_add/android/CMakeLists.txt",
+    "/Users/zack/Library/Android/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/zack/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/zack/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-arm64-v8a": {
+      "buildCommand": "/Users/zack/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zack/Projects/FlutterProjects/flutter_native_add/android/app/.cxx/cmake/debug/arm64-v8a\" native_add",
+      "buildType": "debug",
+      "toolchain": "197842301",
+      "abi": "arm64-v8a",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/zack/Projects/FlutterProjects/flutter_native_add/ios/Runner/Classes/NativeAdd.hpp",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/zack/Projects/FlutterProjects/flutter_native_add/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so"
+    }
+  },
+  "toolchains": {
+    "197842301": {
+      "cppCompilerExecutable": "/Users/zack/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
